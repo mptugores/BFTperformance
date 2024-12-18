@@ -1,4 +1,4 @@
-# BFTperformance
+# Larval performance for Bluefin tuna
 
 Code for estimating larval performance using a model that includes growth, foraging and bioenergetics.
 
